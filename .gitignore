@@ -1,0 +1,8 @@
+# Build artifacts
+*.dll
+*.lib
+*.pdb
+*.zip
+*.log
+package_stage/
+.DS_Store
